@@ -1,9 +1,9 @@
 # Hola, soy Martin Braconi 👋
 
-<a href="https://www.linkedin.com/in/jose-martin-braconi-guzman-292629128/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/jbraconig"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jose-martin-braconi-guzman-292629128/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/jbraconig"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X.com"/></a>
 
-[cite_start]Soy un desarrollador de software [cite: 4] apasionado por la construcción de soluciones backend robustas y escalables. [cite_start]Mi experiencia se centra en el sector financiero, donde he liderado proyectos de alta complejidad que involucran la modernización de sistemas legados (AS/400) [cite: 5, 17][cite_start], la implementación de arquitecturas de microservicios [cite: 5, 26] [cite_start]y la seguridad transaccional a través de tokenización y criptografía[cite: 5, 29].
+Soy un desarrollador de software apasionado por la construcción de soluciones backend robustas y escalables. Mi experiencia se centra en el sector financiero, donde he liderado proyectos de alta complejidad que involucran la modernización de sistemas legados (AS/400), la implementación de arquitecturas de microservicios y la seguridad transaccional a través de tokenización y criptografía.
 
 ### 🛠️ Mi Stack Tecnológico
 
@@ -38,5 +38,3 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </p>
-
----
