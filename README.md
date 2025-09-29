@@ -1,6 +1,6 @@
 # Hi, I'm Martin Braconi 👋
 
-<a href="https://www.linkedin.com/in/jose-martin-braconi-guzman-292629128/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/martin-braconi-292629128/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/jbraconig"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X.com"/></a>
 
 I am a passionate software developer focused on building robust and scalable backend solutions. My experience is centered in the financial sector, where I have led highly complex projects involving the modernization of legacy systems (AS/400), the implementation of microservice architectures, and transactional security through tokenization and cryptography.
